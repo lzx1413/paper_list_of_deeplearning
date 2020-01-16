@@ -4,3 +4,4 @@ deep learning paper list file in format of zotero
 download the file named DL.rdf and load this file by [Zotero](https://www.zotero.org/)
 
 The result should look like this:
+![](./capture.png)
